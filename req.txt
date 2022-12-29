@@ -1,0 +1,14 @@
+fastapi==0.61.2
+pydantic==1.7.2
+pymongo==3.11.0
+starlette==0.13.6
+uvicorn==0.12.2
+numpy
+ipywidgets
+flax
+sentence-transformers
+git+https://github.com/huggingface/transformers.git
+transformers
+torch torchvision
+git+https://github.com/openai/CLIP.git
+multilingual-clip
